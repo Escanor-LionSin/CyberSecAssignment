@@ -1,2 +1,2 @@
 # CyberSecAssignment
-Repo for BCSE410L Course as part of Assignment
+Repo for BCSE410L Course as part of curriculum.
